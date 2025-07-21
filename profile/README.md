@@ -51,3 +51,10 @@
 
 ## :open_book: Mentor
 
+## :telescope: Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=spring-cloud-gateway&theme=github_dark&hide_border=true)](https://github.com/nhnacademy-aiot2-lucky7/spring-cloud-gateway)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=spring-cloud-eureka&theme=github_dark&hide_border=true)](https://github.com/nhnacademy-aiot2-lucky7/spring-cloud-eureka)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=&theme=github_dark&hide_border=true)](https://github.com/nhnacademy-aiot2-lucky7/) -->
