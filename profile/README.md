@@ -39,13 +39,13 @@
   </tr>
   <tr align="center">
     <th>GitHub</th>
-    <td><a href="https://github.com/kangboosik">Link</a></td>
-    <td><a href="https://github.com/kimsongbin">Link</a></td>
-    <td><a href="https://github.com/moonchanhee">Link</a></td>
-    <td><a href="https://github.com/parkjuny0ung">Link</a></td>
-    <td><a href="https://github.com/baekdongho">Link</a></td>
-    <td><a href="https://github.com/songyoungchan">Link</a></td>
-    <td><a href="https://github.com/donghyunlee-dev">Link</a></td>
+    <td><a href="https://github.com/once217">Link</a></td>
+    <td><a href="https://github.com/Kimsongbeen">Link</a></td>
+    <td><a href="https://github.com/HwangSlater">Link</a></td>
+    <td><a href="https://github.com/jy37414">Link</a></td>
+    <td><a href="https://github.com/st120712">Link</a></td>
+    <td><a href="https://github.com/youngchan0510">Link</a></td>
+    <td><a href="https://github.com/Rayhke">Link</a></td>
   </tr>
 </table>
 
