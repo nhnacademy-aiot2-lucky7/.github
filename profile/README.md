@@ -6,25 +6,25 @@
   <tr align="center">
     <th>Profile</th>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/72724785?v=4" width="60" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/72724785?v=4" width="80" alt=""/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/118897208?v=4" width="60" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/118897208?v=4" width="80" alt=""/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/80397007?v=4" width="60" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/80397007?v=4" width="80" alt=""/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/134957895?v=4" width="60" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/134957895?v=4" width="80" alt=""/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/54105266?v=4" width="60" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/54105266?v=4" width="80" alt=""/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/180140997?v=4" width="60" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/180140997?v=4" width="80" alt=""/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/94730654?v=4" width="60" alt=""/>
+      <img src="https://avatars.githubusercontent.com/u/94730654?v=4" width="80" alt=""/>
     </td>
   </tr>
   <tr align="center">
