@@ -3,8 +3,11 @@
 ## :telescope: Repositories
 
 <div align=center>
+    <a href="https://github.com/nhnacademy-aiot2-lucky7/spring-cloud-gateway">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=spring-cloud-gateway&theme=github_dark&hide_border=true" />
+    </a>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=&theme=github_dark&hide_border=true)](https://github.com/nhnacademy-aiot2-lucky7/)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=spring-cloud-gateway&theme=github_dark&hide_border=true)](https://github.com/nhnacademy-aiot2-lucky7/spring-cloud-gateway)
 
 </div>
 
