@@ -1,17 +1,23 @@
 # Lucky7
 
-## :telescope: Repositories
+## About Project
 
-<div align=center>
-    <a href="https://github.com/nhnacademy-aiot2-lucky7/spring-cloud-gateway">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=spring-cloud-gateway&theme=github_dark&hide_border=true" />
-    </a>
+> AIoT 기반 스마트 데이터 센서 실시간 모니터링 시스템
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=spring-cloud-gateway&theme=github_dark&hide_border=true)](https://github.com/nhnacademy-aiot2-lucky7/spring-cloud-gateway)
+---
 
-</div>
+## :hammer_and_wrench: Tech Stack
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=&theme=github_dark&hide_border=true)](https://github.com/nhnacademy-aiot2-lucky7/) -->
+| 영역                        | 사용 기술 및 도구                                                  |
+|---------------------------|-------------------------------------------------------------|
+| Back-End                  | Java, Spring Boot, Spring Cloud (Gateway, Eureka), REST API |
+| Front-End & Visualization | HTML, CSS, JavaScript, Chart.js, Grafana                    |
+| IoT & Data Collection     | MQTT, Modbus                                                |
+| AI / 데이터 분석               | Python, Pandas, FastAPI                                     |
+| Database / Storage        | MySQL, InfluxDB, Elasticsearch, Cloudinary                  |
+| DevOps                    | GitHub Actions, Docker, NHN Cloud, Cloudflare               |
+| Messaging / Integration   | RabbitMQ                                                    |
+| 인증 & 인가                   | JWT, AES, Spring Security                                   |
 
 ---
 
@@ -26,6 +32,31 @@
 #### [System Architecture](https://www.figma.com/board/eSAWPauX1W6d5otHJnBffw/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98?node-id=0-1&p=f&t=s3bVcBPjhOelbdIp-0)
 
 #### [Front-End Storyboard](https://www.figma.com/design/NkEC5o6WsfSPslpNiXDfCE/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%84%BC%ED%84%B0-AIoT-%EC%A0%81%EC%9A%A9?node-id=0-1&p=f&t=uMXHov648wLMyNFe-0)
+
+---
+
+## :telescope: Repositories
+
+<div align=center>
+  <h3>MSA</h3>
+  <a href="https://github.com/nhnacademy-aiot2-lucky7/spring-cloud-gateway">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=spring-cloud-gateway&theme=github_dark&hide_border=true" alt="spring-cloud-gateway"/>
+  </a>
+  <a href="https://github.com/nhnacademy-aiot2-lucky7/spring-cloud-eureka">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=spring-cloud-eureka&theme=github_dark&hide_border=true" alt="spring-cloud-eureka"/>
+  </a>
+  <h3>IoT</h3>
+  <a href="https://github.com/nhnacademy-aiot2-lucky7/data-handler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=data-handler&theme=github_dark&hide_border=true" alt="spring-cloud-eureka"/>
+  </a>
+  <a href="https://github.com/nhnacademy-aiot2-lucky7/sensor-service">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhnacademy-aiot2-lucky7&repo=sensor-service&theme=github_dark&hide_border=true" alt="sensor-service"/>
+  </a>
+  <h3>AI</h3>
+  <a href="">
+    <img src="" alt=""/>
+  </a>
+</div>
 
 ---
 
