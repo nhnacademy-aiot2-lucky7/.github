@@ -66,25 +66,25 @@
   <tr align="center">
     <th>Profile</th>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/72724785?v=4" alt="강부식" style="width:100px"/>
+      <img src="https://avatars.githubusercontent.com/u/72724785?v=4" alt="강부식" style="width:80px"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/118897208?v=4" alt="김송빈" style="width:100px"/>
+      <img src="https://avatars.githubusercontent.com/u/118897208?v=4" alt="김송빈" style="width:80px"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/80397007?v=4" alt="문찬희" style="width:100px"/>
+      <img src="https://avatars.githubusercontent.com/u/80397007?v=4" alt="문찬희" style="width:80px"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/134957895?v=4" alt="박준영" style="width:100px"/>
+      <img src="https://avatars.githubusercontent.com/u/134957895?v=4" alt="박준영" style="width:80px"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/54105266?v=4" alt="백동호" style="width:100px"/>
+      <img src="https://avatars.githubusercontent.com/u/54105266?v=4" alt="백동호" style="width:80px"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/180140997?v=4" alt="송영찬" style="width:100px"/>
+      <img src="https://avatars.githubusercontent.com/u/180140997?v=4" alt="송영찬" style="width:80px"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/94730654?v=4" alt="이동현" style="width:100px"/>
+      <img src="https://avatars.githubusercontent.com/u/94730654?v=4" alt="이동현" style="width:80px"/>
     </td>
   </tr>
   <tr align="center">
@@ -115,13 +115,13 @@
   <tr align="center">
     <th>Profile</th>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/7665315?v=4" alt="X-Tra" style="width:50px"/>
+      <img src="https://avatars.githubusercontent.com/u/7665315?v=4" alt="X-Tra" style="width:80px"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/89076087?v=4" alt="Marco" style="width:50px"/>
+      <img src="https://avatars.githubusercontent.com/u/89076087?v=4" alt="Marco" style="width:80px"/>
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/80664194?v=4" alt="Bak" style="width:50px"/>
+      <img src="https://avatars.githubusercontent.com/u/80664194?v=4" alt="Bak" style="width:80px"/>
     </td>
   </tr>
   <tr align="center">
